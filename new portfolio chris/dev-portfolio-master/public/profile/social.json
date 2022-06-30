@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/chretiengonzalez/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/chretiengonzalez"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:gonzalez@chretien.com.es"
+        }
+    ]
+}

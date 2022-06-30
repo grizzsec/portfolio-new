@@ -1,0 +1,51 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/python.png",
+            "title": "Juego de Ahorcado",
+            "bodyText": "- Un simple juego del Ahorcado, desarrollado con Python",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/chretiengonzalez/juego_ahorcado"
+                }
+
+            ],
+            "tags" : [
+                "Python"
+            ]
+        },
+        {
+            "image" : "images/projects/python.png",
+            "title": "Red Neuronal Artificial",
+            "bodyText": "- Una red neuronal desarrollada con Python, Tensorflow y IA. Trata de un convertidor de grados Celsius a Fahrenheit",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/chretiengonzalez/mi_primera_redneuronal"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Tensorflow",
+                "IA"
+            ]
+        },
+        {
+            "title": "Editor de Código en tiempo real",
+            "bodyText": "- Un simple editor de código en tiempo real, desarrollado con HTML, JavaScript y CSS",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "RSA"
+            ]
+        } 
+    ]
+}

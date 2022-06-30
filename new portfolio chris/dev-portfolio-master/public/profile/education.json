@@ -1,0 +1,149 @@
+{
+    "education":[
+        {
+            "title": "2001 - 2011",
+            "cardTitle": "Academia Privada de Informática",
+            "cardSubtitle":"Informática, Sistemas y Mecanografía",
+            "cardDetailedText": " 10 años en una academia de informática, donde impartí mecanografía, sistemas de información y programación.",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "2020",
+            "cardTitle": "Corporación Informática",
+            "cardSubtitle":"Máster de diseño y desarrollo web",
+            "cardDetailedText": "Máster de diseño y desarrollo web."
+        },
+
+        {
+            "title": "2020",
+            "cardTitle": "Corporación Informática",
+            "cardSubtitle":"PHP básico",
+            "cardDetailedText": "Curso de PHP básico de 20 horas."
+        },
+
+        {
+            "title": "2022",
+            "cardTitle": "Código Facilito",
+            "cardSubtitle":"Curso avanzado de HTML 5",
+            "cardDetailedText": "HTML 5 a fondo, impartido por dicha empresa."
+        },
+
+        {
+            "title": "2022",
+            "cardTitle": "Código Facilito",
+            "cardSubtitle":"Curso profesional de Desarrollo Web",
+            "cardDetailedText": "Desarrollo web a fondo, impartido por dicha empresa."
+        },
+
+        {
+            "title": "2022",
+            "cardTitle": "Código Facilito",
+            "cardSubtitle":"English for Devs 1 y 2",
+            "cardDetailedText": "Inglés para desarrolladores, impartido por dicha empresa."
+        },
+
+        {
+            "title": "2022",
+            "cardTitle": "Código Facilito",
+            "cardSubtitle":"Introducción a Amazon S3",
+            "cardDetailedText": "Amazon S3, impartido por dicha empresa."
+        },
+
+        {
+            "title": "2022",
+            "cardTitle": "Código Facilito",
+            "cardSubtitle":"Introducción a Amazon EC2 Cloud",
+            "cardDetailedText": "Amazon EC2, impartido por dicha empresa."
+        },
+
+        {
+            "title": "2022",
+            "cardTitle": "Código Facilito",
+            "cardSubtitle":"Curso profesional de GIT",
+            "cardDetailedText": "GIT, impartido por dicha empresa."
+        },
+
+        {
+            "title": "2022",
+            "cardTitle": "Código Facilito",
+            "cardSubtitle":"Servicios cognitivos de Microsoft",
+            "cardDetailedText": "Servicios cognitivos de Microsoft, impartido por dicha empresa."
+        },
+
+        {
+            "title": "2022",
+            "cardTitle": "Código Facilito",
+            "cardSubtitle":"Promesas en JavaScript",
+            "cardDetailedText": "Promesas en JavaScript, impartido por dicha empresa."
+        },
+
+        
+        {
+            "title": "2022",
+            "cardTitle": "EOI - Google",
+            "cardSubtitle":"Cloud Computing",
+            "cardDetailedText": "Cloud Computing, impartido por dicha empresa."
+        },
+
+        {
+            "title": "2022",
+            "cardTitle": "Open Boot Camp",
+            "cardSubtitle":"Introducción a la programación",
+            "cardDetailedText": "Introducción a la programación, impartido por dicha empresa."
+        },
+
+        {
+            "title": "2022",
+            "cardTitle": "Open Boot Camp",
+            "cardSubtitle":"HTML y CSS",
+            "cardDetailedText": "HTML y CSS, impartido por dicha empresa."
+        },
+
+        {
+            "title": "2022",
+            "cardTitle": "Linkedln Learning Academy",
+            "cardSubtitle":"Aprende Big Data",
+            "cardDetailedText": "Aprende Big Data, impartido por dicha empresa."
+        },
+
+        {
+            "title": "2022",
+            "cardTitle": "Linkedln Learning Academy",
+            "cardSubtitle":"Bid Data y visualización de datos",
+            "cardDetailedText": "Visualización de datos, impartido por dicha empresa."
+        },
+
+        {
+            "title": "2022",
+            "cardTitle": "Linkedln Learning Academy",
+            "cardSubtitle":"Python para data science y big data esencial",
+            "cardDetailedText": "Data science y big data con Python, impartido por dicha empresa."
+        },
+
+        {
+            "title": "2022",
+            "cardTitle": "AWS Amazon",
+            "cardSubtitle":"Amazon EMR",
+            "cardDetailedText": "Amazon EMR, impartido por dicha empresa."
+        },
+
+        {
+            "title": "2022",
+            "cardTitle": "AWS Amazon",
+            "cardSubtitle":"Amazon AWS Billing and cost management",
+            "cardDetailedText": "Amazon AWS, impartido por dicha empresa."
+        },
+
+
+    {
+        "title": "2022",
+        "cardTitle": "UNIDEMA",
+        "cardSubtitle":"Triple máster MBA en Administración y Gestión de Empresas, Marketing Digital y Comunicación y Oratoria",
+        "cardDetailedText": "Triple máster MBA, impartido por dicha empresa."
+    }
+
+
+    ]
+}
